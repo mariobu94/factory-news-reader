@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Factory News</string>
+    <string name="error_title">Greška</string>
+    <string name="error_description">Ups, došlo je do pogreške.</string>
+    <string name="error_btn">U REDU</string>
+
+</resources>
